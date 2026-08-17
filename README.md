@@ -1,3 +1,4 @@
+<img width="1901" height="913" alt="Screenshot 2026-08-17 073741" src="https://github.com/user-attachments/assets/189048f3-6233-4fb3-81df-23711fe0aba8" />
 # JobVerse — Job Listing Platform
 
 > A full-featured job board web application built with PHP, MySQL, and Bootstrap. Browse live job listings, apply in seconds, and manage everything through a dedicated admin panel.
